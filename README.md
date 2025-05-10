@@ -19,16 +19,16 @@ Este proyecto presenta un análisis visual e interactivo sobre la población mun
   ## 📊 Vista previa del reporte
 
 ### Gráfico de Población
-![Población General](imagenes/poblacion_general.png)
+![Población General]([imagenes/poblacion_general.png](https://github.com/Co7Co7/PowerBI_Indicadores-Mundiales/blob/main/imagenes/Indicadores%20mundiales%201.PNG))
 
 ### Mapa Interactivo
-![Mapa Interactivo](imagenes/mapa_interactivo.png)
+![Mapa Interactivo]([imagenes/mapa_interactivo.png](https://github.com/Co7Co7/PowerBI_Indicadores-Mundiales/blob/main/imagenes/Indicadores%20mundiales%202.PNG))
 
 
 
 ## 🚀 Descargar el dashboard
 
-🔗 
+🔗 ![Descargar dashboard]([https://github.com/Co7Co7/PowerBI_Indicadores-Mundiales/blob/main/Proyecto%202%20indicadores%20mundiales.pbix))
 
 ## 🛠️ Herramientas usadas
 
