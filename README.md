@@ -15,11 +15,20 @@ Este proyecto presenta un análisis visual e interactivo sobre la población mun
 - **Pestañas**:
   - `Población por área`
   - `Indicadores mundiales`
-  
 
-## 🚀 Ver el dashboard en línea
+  ## 📊 Vista previa del reporte
 
-🔗 [Haz clic aquí para ver el reporte interactivo](https://app.powerbi.com/view?r=TuLinkAqui)
+### Gráfico de Población
+![Población General](imagenes/poblacion_general.png)
+
+### Mapa Interactivo
+![Mapa Interactivo](imagenes/mapa_interactivo.png)
+
+
+
+## 🚀 Descargar el dashboard
+
+🔗 
 
 ## 🛠️ Herramientas usadas
 
